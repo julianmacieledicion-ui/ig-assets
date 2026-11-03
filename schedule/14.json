@@ -1,0 +1,20 @@
+{
+ "id": 14,
+ "at": "2026-11-06T12:30:00-03:00",
+ "name": "Carrusel C",
+ "connector": "instagram",
+ "account": "17841444414706925",
+ "action": "create_carousel_post",
+ "params": {
+  "image_urls": [
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-C-5-videos-para-marcas_1.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-C-5-videos-para-marcas_2.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-C-5-videos-para-marcas_3.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-C-5-videos-para-marcas_4.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-C-5-videos-para-marcas_5.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-C-5-videos-para-marcas_6.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-C-5-videos-para-marcas_7.jpg"
+  ],
+  "caption": "¿Qué video necesita tu marca? 5 ideas simples: presentación de producto, detrás de escena, video de un cliente real, tutorial corto y anuncio con oferta. 📩 Envíame la palabra EDITAR por mensaje directo y te cuento cómo trabajo, qué incluye y cuánto cuesta.\n\n#edicióndevideo #editordevideo #reels #creadoresdecontenido #youtubers #motiongraphics"
+ }
+}

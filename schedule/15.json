@@ -1,0 +1,11 @@
+{
+ "id": 15,
+ "at": "2026-11-06T14:00:00-03:00",
+ "name": "Historia proceso",
+ "connector": "instagram",
+ "account": "17841444414706925",
+ "action": "create_story",
+ "params": {
+  "image_url": "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/historia-M-proceso.jpg"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "id": 4,
+ "at": "2026-11-04T12:30:00-03:00",
+ "name": "Post presentación",
+ "connector": "instagram",
+ "account": "17841444414706925",
+ "action": "create_image_post",
+ "params": {
+  "image_url": "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/post-1-presentacion.jpg",
+  "caption": "Hola, soy Julian. Edito videos para creadores y marcas: reels y YouTube con ritmo, subtítulos claros y sonido cuidado. 📩 Envíame la palabra EDITAR por mensaje directo y te cuento cómo trabajo, qué incluye y cuánto cuesta.\n\n#edicióndevideo #editordevideo #reels #creadoresdecontenido #youtubers #motiongraphics"
+ }
+}

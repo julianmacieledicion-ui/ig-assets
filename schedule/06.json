@@ -1,0 +1,13 @@
+{
+ "id": 6,
+ "at": "2026-11-04T19:00:00-03:00",
+ "name": "Reel 5",
+ "connector": "instagram",
+ "account": "17841444414706925",
+ "action": "create_video_post",
+ "params": {
+  "video_url": "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/v/reel-5-intro-editor.mp4",
+  "caption": "¿Buscas un editor de video? 🎬 Hola, soy Julian. Edito reels y videos de YouTube con cortes limpios, subtítulos claros y buen ritmo. 📩 Envíame la palabra EDITAR por mensaje directo y te cuento cómo trabajo, qué incluye y cuánto cuesta.\n\n#edicióndevideo #editordevideo #reels #creadoresdecontenido #youtubers #motiongraphics",
+  "share_to_feed": true
+ }
+}

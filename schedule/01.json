@@ -1,0 +1,13 @@
+{
+ "id": 1,
+ "at": "2026-11-03T20:00:00-03:00",
+ "name": "Reel 6",
+ "connector": "instagram",
+ "account": "17841444414706925",
+ "action": "create_video_post",
+ "params": {
+  "video_url": "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/v/reel-6-3-segundos.mp4",
+  "caption": "Tu video se decide en 3 segundos. ⏱️ Estos 3 trucos de edición hacen que la gente se quede: empieza por lo mejor, usa subtítulos que se lean rápido y cambia algo en pantalla cada 2 segundos. 📩 Envíame la palabra EDITAR por mensaje directo y te cuento cómo trabajo, qué incluye y cuánto cuesta.\n\n#edicióndevideo #editordevideo #reels #creadoresdecontenido #youtubers #motiongraphics",
+  "share_to_feed": true
+ }
+}

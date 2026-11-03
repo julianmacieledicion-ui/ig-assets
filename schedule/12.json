@@ -1,0 +1,11 @@
+{
+ "id": 12,
+ "at": "2026-11-05T21:00:00-03:00",
+ "name": "Historia CTA",
+ "connector": "instagram",
+ "account": "17841444414706925",
+ "action": "create_story",
+ "params": {
+  "image_url": "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/historia-6-cta.jpg"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "id": 21,
+ "at": "2026-11-07T19:00:00-03:00",
+ "name": "Carrusel F",
+ "connector": "instagram",
+ "account": "17841444414706925",
+ "action": "create_carousel_post",
+ "params": {
+  "image_urls": [
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-F-checklist_1.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-F-checklist_2.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-F-checklist_3.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-F-checklist_4.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-F-checklist_5.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-F-checklist_6.jpg",
+   "https://raw.githubusercontent.com/julianmacieledicion-ui/ig-assets/main/i/carrusel-F-checklist_7.jpg"
+  ],
+  "caption": "Checklist antes de publicar tu video: gancho, audio, subtítulos, ritmo y cierre. Guárdalo y revísalo antes de subir. 📩 Envíame la palabra EDITAR por mensaje directo y te cuento cómo trabajo, qué incluye y cuánto cuesta.\n\n#edicióndevideo #editordevideo #reels #creadoresdecontenido #youtubers #motiongraphics"
+ }
+}
